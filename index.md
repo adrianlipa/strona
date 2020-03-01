@@ -1,11 +1,9 @@
----
-layout: default
----
+
 
 <b>
 Szanowni Państwo,
 nasz firma zajmuje się tworzeniem aplikacji dla systemów IOS.
-Tworzymy aplikację dla urządzeń mobilnych jak i stacjonarnych.
+Tworzymy aplikacje dla urządzeń mobilnych jak i stacjonarnych.
 <br><br>
 Kontakt:
 +48 604 273 633
