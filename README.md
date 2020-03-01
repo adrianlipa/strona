@@ -1,7 +1,8 @@
 Adrian Lipa BHP CENTRUM
 
-One Paragraph of project description goes here
-Getting Started
+<img src="logo.jpg" alt="nazwa alternatywna">
+Nasza firma zajmuje się tworzeniem aplikacji dla systemów IOS
+Tworzymy oprogramowanie dla urządzeń mobilnych jak i stacjonarnych
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Prerequisites
