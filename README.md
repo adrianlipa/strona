@@ -1,5 +1,5 @@
 <img src="logo.jpg" alt="nazwa alternatywna">
-remote_theme: Jekyll 
+remote_theme: jekyll-theme-minimal 
 
 
 Nasza firma zajmuje się tworzeniem aplikacji dla systemów IOS
