@@ -1,5 +1,7 @@
 <img src="logo.jpg" alt="nazwa alternatywna">
 remote_theme: Jekyll 
+
+
 Nasza firma zajmuje się tworzeniem aplikacji dla systemów IOS
 Tworzymy oprogramowanie dla urządzeń mobilnych jak i stacjonarnych
 
