@@ -1,4 +1,4 @@
-Project Title
+Adrian Lipa BHP CENTRUM
 
 One Paragraph of project description goes here
 Getting Started
