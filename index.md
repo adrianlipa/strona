@@ -24,9 +24,9 @@ Młynek ul. Graniczna 9a
 Poland
   <br><br><br><br>
 <a href="https://www.facebook.com/bhpcentrum/">
-<img src="FB.png" width="225" height="225" alt="FB">
+<img src="FB.png" width="56" height="56" alt="FB">
 </a>
 <a href="https://www.facebook.com/bhpcentrum/">
-<img src="INSTA.png" width="280" height="180" alt="IN">
+<img src="INSTA.png" width="70" height="45" alt="IN">
   </a>
 
