@@ -1,5 +1,3 @@
-Adrian Lipa BHP CENTRUM
-
 <img src="logo.jpg" alt="nazwa alternatywna">
 Nasza firma zajmuje się tworzeniem aplikacji dla systemów IOS
 Tworzymy oprogramowanie dla urządzeń mobilnych jak i stacjonarnych
